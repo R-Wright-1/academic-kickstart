@@ -43,16 +43,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:robyn.wright@dal.ca'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:robyn.wright@dal.ca'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RobynJWright
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=VtEQhX4AAAAJ&hl=en
-- icon: github
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/R-Wright-1
+  link: https://www.researchgate.net/profile/Robyn_Wright3
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-0562-2610
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/robynjwright/?hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +76,5 @@ email: ""
 ---
 
 Hello! My name is <strong>Robyn Wright</strong>, and I am currently a <strong>postdoctoral research fellow in the Langille Lab</strong> (Department of Pharmacology, Dalhousie University) where I am investigating the human microbiome in healthy and diseased individuals. I recently completed an Association of Commonwealth Universities <strong>Blue Charter Fellowship</strong> (October 2019-April 2020; School for Resources and Environmental Studies, Dalhousie University) in which I carried out a meta-analysis of all studies that characterise the microbial communities that colonise plastics - the <strong>"Plastisphere"</strong>. I am interested in <strong>microbial community dynamics and interactions</strong>; how are these communities impacted by different factors of their environments? How do they change over time? What functions are they capable of carrying out?
+
+Note that this site is currently a work in progress, but I hope to have everything up and running soon!
