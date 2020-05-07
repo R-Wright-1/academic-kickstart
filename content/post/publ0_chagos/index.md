@@ -3,15 +3,22 @@
 
 title: "Contaminants, Pollution and Potential Anthropogenic Impacts in Chagos/BIOT"
 subtitle: "James W. Readman, Francis DeLuna, Ralf Ebinghaus, Antenor Nestor Guzman, Andrew R. G. Price, Emily E. Readman, Anne L. S. Sheppard, Victoria A. Sleight, Renate Sturm, Richard C. Thompson, Andrew Tonkin, Hendrik Wolschke, <b>Robyn J. Wright</b>, Charles R. C. Sheppard"
-post_snippet: ...collected and analysed a number of samples taken from the Chagos Archipelago...concentrations of Microplastics...
-summary: ""
+summary: "This study collected and analysed a number of samples taken from the Chagos Archipelago (British Indian Ocean Territory) in order to determine the levels of a range of pollutants in this uninhabited Pacific Ocean Archipelago."
 authors: []
-tags: ["publication", "microplastics", "plastics", "pollutant concentrations"]
+tags: ["Publication", "View online"]
 categories: []
 date: 2013-06-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00
 featured: true
 draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: true
 
 links: 
 #- icon: file-pdf
@@ -29,4 +36,4 @@ _Date published: 2013_
 <h2>Summary</h2></br>
 This study collected and analysed a number of samples taken from the Chagos Archipelago (British Indian Ocean Territory) in order to determine the levels of a range of pollutants in this uninhabited Pacific Ocean Archipelago. I was involved with analysing sand samples sent from inhabited and uninhabited areas for their concentrations of Microplastics. We separated the Microplastics from the sand using density separation (the plastics float in hyper saline water, while the sand sinks) and then identified the plastic types using Fourier transform-Infrared (FT-IR) Spectroscopy. We found particles at all 20 sites, and these included a range of plastic types, such as nylon, polyethylene, polyester, polypropylene and rayon and the abundance of these particles (approximately 5 per 50 ml sand) was among the highest reported worldwide at that time.
 
-{{< figure src="chagos.png" title="The Chagos Archipelago (Figure 21.2b)" lightbox="true" >}}
+{{< figure src="featured.png" title="The Chagos Archipelago (Figure 21.2b)" lightbox="true" >}}

@@ -3,10 +3,9 @@
 
 title: "Understanding microbial community dynamics to improve optimal microbiome selection"
 subtitle: "<b>Robyn J. Wright</b>, Matthew I. Gibson and Joseph A. Christie-Oleza"
-post_snippet: I will soon be posting a summary of this paper here
-summary: ""
+summary: "I will soon be posting a summary of this paper here"
 authors: []
-tags: []
+tags: ["Publication", "View online"]
 categories: []
 date: 2019-06-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00

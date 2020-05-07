@@ -3,9 +3,9 @@
 
 title: "Early Colonization of Weathered Polyethylene by Distinct Bacteria in Marine Coastal Seawater"
 subtitle: "Gabriel Erni-Cassola, <b>Robyn J. Wright</b>, Matthew I. Gibson and Joseph A. Christie-Oleza"
-summary: ""
+summary: "I will soon be posting a summary of this paper here"
 authors: []
-tags: []
+tags: ["Publication", "View online"]
 categories: []
 date: 2019-08-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00
@@ -26,4 +26,3 @@ links:
 _Date published: August 2019_
 
 <h2>Summary</h2>
-I will soon be posting a summary of this paper here

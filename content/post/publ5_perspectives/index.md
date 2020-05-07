@@ -3,9 +3,9 @@
 
 title: "Marine plastic debris - a new surface for microbial colonization"
 subtitle: "<b>Robyn J. Wright</b>, Gabriel Erni-Cassola, Vinko Zadjelovic, Mira Latva and Joseph A. Christie-Oleza"
-summary: ""
+summary: "I will soon be posting a summary of this paper here"
 authors: []
-tags: []
+tags: ["Publication", "View online"]
 categories: []
 date: 2020-03-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00
@@ -23,4 +23,3 @@ draft: false
 _Date published: Under revision_
 
 <h2>Summary</h2>
-I will soon be posting a summary of this paper here

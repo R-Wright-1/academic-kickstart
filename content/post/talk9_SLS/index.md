@@ -2,67 +2,35 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Food or a free ride? The ability of a marine microbial community to degrade plastics"
-event:
-event_url:
-location:
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract:
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-06T23:25:00-06:00
-date_end: 2020-05-06T23:25:00-06:00
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: 2020-05-06T23:25:00-06:00
-
+subtitle: "School of Life Sciences Postgraduate Symposium March 2019 (Warwick, UK)"
+summary: "School of Life Sciences Postgraduate Symposium March 2019"
 authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
+tags: ["Talk"]
+categories: []
+date: 2019-03-06T21:58:12-06:00
+lastmod: 2020-05-06T21:58:12-06:00
+featured: true
+draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Center"
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links: 
+- icon: file-pdf
+  icon_pack: fas
+  link: SLS.pdf
+  name: Download slides
 
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
-url_code:
-url_pdf:
-url_video:
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
+_Oral presentation (12 mins)_
+
+{{< figure src="featured.png" title="" lightbox="true" >}}
+
+<h2>Submitted abstract</h2></br>
+Recalcitrant polymers are widely distributed in the environment. This includes natural polymers, such as chitin, but also synthetic polymers such as plastics, which are becoming increasingly abundant, and for which biodegradation is uncertain. Distribution of labour in microbial communities commonly evolves in nature, particularly for arduous processes, suggesting that a community may be better at degrading recalcitrant compounds than individual microorganisms. Previous work, carried out by us, showed that a microbial community could be selected for the efficient degradation of chitin, but if the community was left for too long then the function decayed as the active members were replaced by cheaters and grazers. Here we aimed to determine whether i) a marine microbial community may be capable of degrading the common packaging plastic poly(ethylene terephthalate) (PET), ii) whether we see a pattern of community succession, as we do with chitin, and iii) if this community may be better able to degrade PET than an individual organism. We incubated several different types of PET with the natural microbial community found colonising coastal marine debris, and characterised the microbial community succession across the incubation period. We show an enrichment of taxa that have previously been shown to be capable of the degradation of recalcitrant compounds. We also isolated bacteria likely to be capable of the degradation of PET and characterised the enzymes that they are using to do so. The community seems to be capable of growing faster than individual organisms and we are currently determining the correlation between microbial community structure and the concentration of breakdown products from PET, thereby identifying the mechanisms used for this degradation.
+

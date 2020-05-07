@@ -2,67 +2,43 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bacterial coping mechanisms for aging: using an individual-based model to study aging in biofilms"
-event:
-event_url:
-location:
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract:
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-06T23:25:17-06:00
-date_end: 2020-05-06T23:25:17-06:00
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: 2020-05-06T23:25:17-06:00
-
+subtitle: "Microbiology Society Annual Conference April 2019 (Belfast, UK)"
+summary: "Microbiology Society Annual Conference April 2019"
 authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
+tags: ["Talk"]
+categories: []
+date: 2019-04-06T21:58:12-06:00
+lastmod: 2020-05-06T21:58:12-06:00
+featured: true
+draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Center"
+  preview_only: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links: 
+- icon: file-pdf
+  icon_pack: fas
+  link: MicroSoc.pdf
+  name: Download slides
+- icon: binoculars
+  icon_pack: fas
+  link: https://doi.org/10.1099/acmi.ac2019.po0205
+  name: View abstract online
+- icon: binoculars
+  icon_pack: fas
+  link: https://microbiologysociety.org/blog/annual-conference-2019-the-road-to-belfast.html
+  name: Blog post
 
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
-url_code:
-url_pdf:
-url_video:
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
+_Oral presentation (9 mins)_
+
+{{< figure src="featured.png" title="" lightbox="true" >}}
+
+<h2>Submitted abstract</h2></br>
+Aging can be defined as an accumulation of damage, or a loss of function, with increasing age. For bacteria, it has generally been assumed that the mechanism used to cope with aging is the asymmetric segregation of damage at division, so that all of the damage is inherited by one cell and the other is therefore rejuvenated. Another, often neglected, mechanism is to repair the damage; our previous computational modelling work has found that an optimized, fixed rate of repair is fitter than damage segregation in well-mixed environments such as chemostats. The predominant mode of growth for bacteria is in biofilms, however, and here we investigate aging in biofilms using the individual-based model iDynoMiCS. In addition to the previously used damage segregation and fixed repair strategies, we introduced adaptive repair: sensing the current damage levels within the cell and responding to this by investing in damage repair machinery. We found that the optimal method for dealing with cellular damage varies with the environment being investigated. The investment of additional resources into adaptive repair is only beneficial when competition is sufficiently strong, in the chemostat and in biofilms, and the speed at which the fittest strategy becomes apparent depends upon the initial density of cells. When the bacterial cells are dense initially, and thus the competition between strategies is stronger, the adaptive repair strategy emerges as the winner much more rapidly.
+

@@ -3,9 +3,9 @@
 
 title: "A multi-OMIC characterization of biodegradation and microbial community succession within the PET Plastisphere"
 subtitle: "<b>Robyn J. Wright</b>, Rafael Bosch, Matthew I. Gibson and Joseph A. Christie-Oleza"
-summary: ""
+summary: "I will soon be posting a summary of this paper here"
 authors: []
-tags: []
+tags: ["Publication", "View online"]
 categories: []
 date: 2020-04-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00
@@ -22,4 +22,3 @@ links:
 _Date published: In preparation_
 
 <h2>Summary</h2>
-I will soon be posting a summary of this paper here

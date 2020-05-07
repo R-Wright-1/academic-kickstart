@@ -3,9 +3,9 @@
 
 title: "Damage repair versus aging in an individual-based model of biofilms"
 subtitle: "<b>Robyn J. Wright</b>, Robert J. Clegg, Timothy L. R. Coker, Jan-Ulrich Kreft"
-summary: ""
+summary: "I will soon be posting a summary of this paper here"
 authors: []
-tags: []
+tags: ["Publication", "View online"]
 categories: []
 date: 2020-01-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00

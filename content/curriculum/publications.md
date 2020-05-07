@@ -20,7 +20,7 @@ title = "Publications"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Publication"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -33,6 +33,6 @@ title = "Publications"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 +++

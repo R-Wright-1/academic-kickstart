@@ -7,7 +7,7 @@ title = "Conference presentations"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -20,7 +20,7 @@ title = "Conference presentations"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Talk"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -33,6 +33,6 @@ title = "Conference presentations"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 +++
