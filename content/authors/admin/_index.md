@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Robyn Wright
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Dalhousie University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in....
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microbial Ecology
+- Microbiome
+- Genomics and Metagenomics
+- Anthropogenic environmental impacts
+- Bioremediation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biological Sciences
+    institution: University of Warwick, UK
+    year: 2019
+  - course: BSc in Marine Biology
+    institution: University of Plymouth, UK
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:robyn.wright@dal.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RobynJWright
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=VtEQhX4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/R-Wright-1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +64,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello! My name is <em>Robyn Wright</em>, and I am currently a <em>postdoctoral research fellow in the Langille Lab</em> (Department of Pharmacology, Dalhousie University) and am researching the human microbiome in healthy and diseased individuals. I recently completed an Association of Commonwealth Universities <em>Blue Charter Fellowship</em> (October 2019-April 2020; School for Resources and Environmental Studies, Dalhousie University) in which I carried out a meta-analysis of all studies that characterise the microbial communities that colonise plastics - the "Plastisphere". I am interested in <em>microbial community dynamics and interactions</em>; how are these communities impacted by different factors of their environments? How do they change over time? What functions are they capable of carrying out?
