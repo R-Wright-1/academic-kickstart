@@ -1,6 +1,5 @@
----
-title: CV
-author: ["admin"]
-date: 2020-05-06
-type: "widget_page"
----
++++
+# Homepage
+type = "widget_page"
+headless = true  # Homepage is headless, other widget pages are not.
++++
