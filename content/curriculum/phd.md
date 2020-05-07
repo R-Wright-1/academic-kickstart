@@ -15,7 +15,7 @@ subtitle = "University of Warwick, UK (2015 - 2019)"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 +++
-<h2>PhD Biological Sciences: Food or just a free ride? Exploring marine microbial community dynamics on natural and synthetic polymers.</h2>
+<h2>Food or just a free ride? Exploring marine microbial community dynamics on natural and synthetic polymers.</h2>
 <strong>Supervisors</strong>: Dr. Joseph Christie-Oleza (School of Life Sciences, now University of the Balearic Islands, Spain) and Prof. Matthew Gibson (Department of Chemistry and Warwick Medical School)<br/>
 <strong>Funding</strong>: Midlands Integrative Biosciences Training Partnership (MIBTP)
 <br/> <br/>
