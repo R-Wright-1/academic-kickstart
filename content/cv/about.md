@@ -39,7 +39,7 @@ icon_pack = "fab"
 link = "https://orcid.org/0000-0003-0562-2610" 
 
 [[feature]]
-icon: "twitter"
-icon_pack: "fab"
-link: "https://twitter.com/RobynJWright"
+icon = "twitter"
+icon_pack = "fab"
+link = "https://twitter.com/RobynJWright"
 +++
