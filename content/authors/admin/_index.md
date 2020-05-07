@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Robyn Wright
+title: Dr. Robyn Wright
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in....
+bio: I'm a postdoctoral research fellow interested in microbial community dynamics and interactions.
 
 interests:
 - Microbial Ecology
@@ -69,4 +69,4 @@ email: ""
 #- Visitors
 ---
 
-Hello! My name is <strong>Robyn Wright</strong>, and I am currently a <strong>postdoctoral research fellow in the Langille Lab</strong> (Department of Pharmacology, Dalhousie University) and am researching the human microbiome in healthy and diseased individuals. I recently completed an Association of Commonwealth Universities <strong>Blue Charter Fellowship</strong> (October 2019-April 2020; School for Resources and Environmental Studies, Dalhousie University) in which I carried out a meta-analysis of all studies that characterise the microbial communities that colonise plastics - the <strong>"Plastisphere"</strong>. I am interested in <strong>microbial community dynamics and interactions</strong>; how are these communities impacted by different factors of their environments? How do they change over time? What functions are they capable of carrying out?
+Hello! My name is <strong>Robyn Wright</strong>, and I am currently a <strong>postdoctoral research fellow in the Langille Lab</strong> (Department of Pharmacology, Dalhousie University) where I am investigating the human microbiome in healthy and diseased individuals. I recently completed an Association of Commonwealth Universities <strong>Blue Charter Fellowship</strong> (October 2019-April 2020; School for Resources and Environmental Studies, Dalhousie University) in which I carried out a meta-analysis of all studies that characterise the microbial communities that colonise plastics - the <strong>"Plastisphere"</strong>. I am interested in <strong>microbial community dynamics and interactions</strong>; how are these communities impacted by different factors of their environments? How do they change over time? What functions are they capable of carrying out?
