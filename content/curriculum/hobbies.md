@@ -1,20 +1,10 @@
 +++
 # About widget.
-widget = "featurette"  
+widget = "blank"  
 headless = true  # This file represents a page section.
 weight = 150  # Order that this section will appear in.
 
 title = "Hobbies and Interests"
-
-[[feature]]
-icon = "camera-retro"
-icon_pack = "fas"
-name = "Photography<br/><br/>Travel"
-
-[[feature]]
-icon = "hiking"
-icon_pack = "fas"
-name = "Hiking</br></br>Running"
 
 [[feature]]
 icon = "swimmer"
@@ -27,3 +17,10 @@ icon_pack = "fas"
 name = "Cycling" 
 
 +++
+<i class="fas fa-camera-retro"></i> Photography </br>
+<i class="fas fa-plane"></i> Travel </br>
+<i class="fas fa-hiking"></i> Hiking </br>
+<i class="fas fa-running"></i> Trail running </br>
+<i class="fas fa-swimmer"></i> Swimming </br>
+<i class="fas fa-water"></i> Surfing </br>
+<i class="fas fa-fish"></i> Diving </br>

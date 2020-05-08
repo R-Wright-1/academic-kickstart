@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Conference presentations"
-subtitle = ""
+subtitle = "Note that many of these slides had to be heavily compressed to be uploaded here. Please get in touch if you would like the full versions."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

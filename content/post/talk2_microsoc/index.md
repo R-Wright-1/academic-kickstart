@@ -7,7 +7,7 @@ summary: "Microbiology Society Annual Conference April 2017"
 authors: []
 tags: ["Talk"]
 categories: []
-date: 2013-06-06T21:58:12-06:00
+date: 2017-04-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00
 featured: true
 draft: false
@@ -20,17 +20,11 @@ image:
   focal_point: "Center"
   preview_only: true
 
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: Robyn Wright MicroSoc poster.pdf
-  name: Download poster
-- icon: file-pdf
-  icon_pack: fas
-  link: MicroSoc flash presentation.pdf
-  name: Download flash presentation slides
-
 ---
+<i class="fas fa-file-pdf"></i> [Download poster](poster.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-file-pdf"></i>[Download slides](slides.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 _Poster and flash presentation (3 mins)_
 
 {{< figure src="featured.png" title="" lightbox="true" >}}

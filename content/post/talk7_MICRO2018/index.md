@@ -20,13 +20,10 @@ image:
   focal_point: "Center"
   preview_only: true
 
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: MICRO.pdf
-  name: Download slides
-
 ---
+<i class="fas fa-file-pdf"></i>[Download slides](MICRO.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 _Oral presentation (12 mins)_
 
 {{< figure src="featured.png" title="" lightbox="true" >}}

@@ -25,3 +25,6 @@ Published: _NA_
 In: _Under review for Environmental Science and Technology_
 
 <h2>Summary</h2>
+Plastics become rapidly colonised by microbes when released into marine environments. This microbial community - the Plastisphere - has sparked a number of scientific enquiries and generated a breadth of knowledge, which we bring together in this review. Besides providing a better understanding of community composition and biofilm development in marine ecosystems, we critically discuss current research on plastic biodegradation and the identification of potential pathogenic “hitchhikers” in the Plastisphere. </br></br>
+
+I will post a full summary of this paper when it has been peer reviewed and published.

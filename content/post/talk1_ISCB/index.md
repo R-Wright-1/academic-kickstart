@@ -20,13 +20,10 @@ image:
   focal_point: "Center"
   preview_only: true
 
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: iscb_compress.pdf
-  name: Download slides
-
 ---
+<i class="fas fa-file-pdf"></i>[Download slides](iscb_compress.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 _Oral presentation (15 mins)_
 
 {{< figure src="featured.png" title="" lightbox="true" >}}

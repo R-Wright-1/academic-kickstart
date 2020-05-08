@@ -12,15 +12,15 @@ lastmod: 2020-05-06T21:58:12-06:00
 featured: true
 draft: false
 
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: files/publ2.pdf
-  name: Download paper
-- icon: binoculars
-  icon_pack: fas
-  link: https://link.springer.com/article/10.1007/s00248-019-01424-5
-  name: View online
+#links: 
+#- icon: file-pdf
+#  icon_pack: fas
+#  link: files/publ2.pdf
+#  name: Download paper
+#- icon: binoculars
+#  icon_pack: fas
+#  link: https://link.springer.com/article/10.1007/s00248-019-01424-5
+#  name: View online
 
 image:
   caption: ""
@@ -29,6 +29,10 @@ image:
 
 
 ---
+<i class="fas fa-file-pdf"></i>[Download paper](publ2.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-binoculars"></i> [View online](https://link.springer.com/article/10.1007/s00248-019-01424-5)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 Published: _August 2019_
 </br>
 In: _Microbial Ecology_

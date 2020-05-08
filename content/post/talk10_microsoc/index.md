@@ -20,21 +20,11 @@ image:
   focal_point: "Center"
   preview_only: true
 
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: MicroSoc.pdf
-  name: Download slides
-- icon: binoculars
-  icon_pack: fas
-  link: https://doi.org/10.1099/acmi.ac2019.po0168
-  name: View abstract online
-- icon: binoculars
-  icon_pack: fas
-  link: https://microbiologysociety.org/blog/annual-conference-2019-the-road-to-belfast.html
-  name: Blog post
-
 ---
+<i class="fas fa-file-pdf"></i>[Download slides](MicroSoc.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="ai ai-doi-square"></i> [View abstract online](https://doi.org/10.1099/acmi.ac2019.po0168)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-binoculars"></i> [View blog post](https://microbiologysociety.org/blog/annual-conference-2019-the-road-to-belfast.html)
+
 _Oral presentation (12 mins)_
 
 {{< figure src="featured.png" title="" lightbox="true" >}}

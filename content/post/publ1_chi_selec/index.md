@@ -12,19 +12,19 @@ lastmod: 2020-05-06T21:58:12-06:00
 featured: true
 draft: false
 
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: files/publ1.pdf
-  name: Download paper
-- icon: binoculars
-  icon_pack: fas
-  link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x
-  name: View online
-- icon: biorxiv
-  icon_pack: ai
-  link: https://www.biorxiv.org/content/10.1101/474742v1
-  name: Preprint
+#links: 
+#- icon: file-pdf
+#  icon_pack: fas
+#  link: files/publ1.pdf
+#  name: Download paper
+#- icon: binoculars
+#  icon_pack: fas
+#  link: https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x
+#  name: View online
+#- icon: biorxiv
+#  icon_pack: ai
+#  link: https://www.biorxiv.org/content/10.1101/474742v1
+#  name: Preprint
 
 image:
   caption: ""
@@ -34,7 +34,7 @@ image:
 ---
 <i class="fas fa-file-pdf"></i>[Download paper](publ1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
 <i class="fas fa-binoculars"></i> [View online](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x)&nbsp;&nbsp;&nbsp;&nbsp;
-<i class="ai biorxiv"></i> [Preprint](https://www.biorxiv.org/content/10.1101/474742v1)
+<i class="ai ai-biorxiv-square"></i> [Preprint](https://www.biorxiv.org/content/10.1101/474742v1)
 
 
 Published: _June 2019_

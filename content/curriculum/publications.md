@@ -1,7 +1,7 @@
 +++
 widget = "pages"  
 headless = true  # This file represents a page section.
-weight = 30  # Order that this section will appear in.
+weight = 16  # Order that this section will appear in.
 
 title = "Publications" 
 

@@ -5,34 +5,41 @@ title: "Damage repair versus aging in an individual-based model of biofilms"
 subtitle: "<b>Robyn J. Wright</b>, Robert J. Clegg, Timothy L. R. Coker, Jan-Ulrich Kreft"
 summary: "<b>Robyn J. Wright</b>, Robert J. Clegg, Timothy L. R. Coker, Jan-Ulrich Kreft (2020) _Preprint_"
 authors: []
-tags: ["Publication", "View online"]
+tags: ["Publication"]
 categories: []
 date: 2020-01-06T21:58:12-06:00
 lastmod: 2020-05-06T21:58:12-06:00
 featured: true
 draft: false
 
-links: 
-- icon: biorxiv
-  icon_pack: ai
-  link: https://www.biorxiv.org/content/10.1101/2020.01.08.899740v1
-  name: Preprint
-- icon: doi
-  icon_pack: ai
-  link: https://doi.org/10.1099/acmi.ac2019.po0205
-  name: Conference abstract
-- icon: figshare
-  icon_pack: ai
-  link: https://doi.org/10.6084/m9.figshare.11520534
-  name: Supplementary data
+#links: 
+#- icon: biorxiv
+#  icon_pack: ai
+#  link: https://www.biorxiv.org/content/10.1101/2020.01.08.899740v1
+#  name: Preprint
+#- icon: doi
+#  icon_pack: ai
+#  link: https://doi.org/10.1099/acmi.ac2019.po0205
+#  name: Conference abstract
+#- icon: figshare
+#  icon_pack: ai
+#  link: https://doi.org/10.6084/m9.figshare.11520534
+#  name: Supplementary data
 
 image:
   caption: ""
   focal_point: "Center"
   preview_only: false
 
+# <i class="fas fa-file-pdf"></i>[Download paper](publ1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+# <i class="fas fa-binoculars"></i> [View online](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
+<i class="ai ai-biorxiv-square"></i> [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.08.899740v1)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="ai ai-doi-square"></i> [Conference abstract](https://doi.org/10.1099/acmi.ac2019.po0205)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="ai ai-figshare-square"></i> [Supplementary data](https://doi.org/10.6084/m9.figshare.11520534)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 Published: _January 2020_
 </br>
 In: _Preprint (under revision for mSystems)_

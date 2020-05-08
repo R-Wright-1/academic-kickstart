@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Artificial ecosystem selection for marine polymer degradation"
-subtitle: "6th International Marine Debris Conference March 2018 (San Diego, California, USA)"
-summary: "6th International Marine Debris Conference March 2018"
+subtitle: "15th Marine Biological Association Postgraduate Conference March 2018 (Plymouth, UK)"
+summary: "15th Marine Biological Association Postgraduate Conference March 2018"
 authors: []
 tags: ["Talk"]
 categories: []
@@ -19,14 +19,10 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: true
-
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: MBA.pdf
-  name: Download slides
-
 ---
+<i class="fas fa-file-pdf"></i>[Download slides](MBA.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 _Oral presentation (12 mins)_
 
 {{< figure src="featured.png" title="" lightbox="true" >}}

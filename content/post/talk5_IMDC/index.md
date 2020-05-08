@@ -19,14 +19,10 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: true
-
-links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: IMDC.pdf
-  name: Download slides
-
 ---
+<i class="fas fa-file-pdf"></i>[Download slides](IMDC.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 _Oral presentation (12 mins)_
 
 {{< figure src="featured.png" title="" lightbox="true" >}}

@@ -3,7 +3,7 @@ widget = "accomplishments"
 headless = true  # This file represents a page section.
 weight = 50  # Order that this section will appear in.
 
-title = "Prizes and Successful Grant Applications" 
+title = "Prizes and successful grant applications" 
 
 date_format = "2006"
 
