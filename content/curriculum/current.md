@@ -13,6 +13,6 @@ company = "Dalhousie University"
 location = "Halifax, NS, Canada" 
 date_start = "2020-05-01"
 date_end = ""
-description = "Research in the Langille Lab on the human microbiome (current position)." 
+description = "Research in the [Langille Lab](https://morganlangille.com/) on the human microbiome." 
 
 +++
