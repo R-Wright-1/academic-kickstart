@@ -23,7 +23,7 @@ bio: I'm a postdoctoral research fellow interested in microbial community dynami
 interests:
 - Microbial Ecology
 - Microbiome
-- Genomics and Metagenomics
+- OMICs (metagenomics, proteomics, metabolomics...)
 - Anthropogenic environmental impacts
 - Bioremediation
 

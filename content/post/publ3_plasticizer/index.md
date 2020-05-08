@@ -3,7 +3,7 @@
 
 title: "Plasticizer Degradation by Marine Bacterial Isolates: A Proteogenomic and Metabolomic Characterization"
 subtitle: "<b>Robyn J. Wright</b>, Rafael Bosch, Matthew I. Gibson and Joseph A. Christie-Oleza"
-summary: "In this study we isolated marine bacteria that were capable of growing using the common plastic additives, plasticizers, and characterised the enzymes and pathways that they used for plasticizer degradation."
+summary: "<b>Robyn J. Wright</b>, Rafael Bosch, Matthew I. Gibson and Joseph A. Christie-Oleza (2020) _Environmental Science and Technology_"
 authors: []
 tags: ["Publication", "View online"]
 categories: []
@@ -13,18 +13,18 @@ featured: true
 draft: false
 
 links: 
-- icon: file-pdf
-  icon_pack: fas
-  link: files/publ3.pdf
-  name: Download paper
+#- icon: file-pdf
+#  icon_pack: fas
+#  link: files/publ3.pdf
+#  name: Download paper
 - icon: binoculars
   icon_pack: fas
   link: https://pubs.acs.org/doi/10.1021/acs.est.9b05228
   name: View online
-- icon: binoculars
-  icon_pack: fas
-  link: https://pubs.acs.org/toc/esthag/54/4
-  name: View issue online
+#- icon: binoculars
+#  icon_pack: fas
+#  link: https://pubs.acs.org/toc/esthag/54/4
+#  name: View issue online
 
 image:
   caption: ""
@@ -33,6 +33,11 @@ image:
 
 
 ---
+<i class="fas fa-file-pdf"></i>[Download paper](files/publ3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-binoculars"></i> [View online](https://pubs.acs.org/doi/10.1021/acs.est.9b05228)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-binoculars"></i> [View issue online](https://pubs.acs.org/toc/esthag/54/4)
+
+
 Published: _January 2020_
 </br>
 In: _Environmental Science and Technology_

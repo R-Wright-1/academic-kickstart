@@ -3,7 +3,7 @@
 
 title: "Understanding microbial community dynamics to improve optimal microbiome selection"
 subtitle: "<b>Robyn J. Wright</b>, Matthew I. Gibson and Joseph A. Christie-Oleza"
-summary: "We use artificial selection of whole microbial communities to show that we can enhance the degradation of the natural polymer, chitin, but find that to do this effectively requires a better understanding of the ecology of the system."
+summary: "<b>Robyn J. Wright</b>, Matthew I. Gibson and Joseph A. Christie-Oleza (2019) <em>Microbiome</em>"
 authors: []
 tags: ["Publication", "View online"]
 categories: []

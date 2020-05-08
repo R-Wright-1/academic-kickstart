@@ -3,7 +3,7 @@
 
 title: "Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere"
 subtitle: "<b>Robyn J. Wright</b>, Morgan G. I. Langille and Tony R. Walker"
-summary: "I will soon be posting a summary of this paper here"
+summary: "<b>Robyn J. Wright</b>, Morgan G. I. Langille and Tony R. Walker (Not published) _Submitted_"
 authors: []
 tags: ["Publication", "View online"]
 categories: []
@@ -53,7 +53,9 @@ links:
 
 
 ---
-_Date published: Submitted_
+Published: _Na_
+</br>
+In: _Submitted_
 
 <h2>Summary</h2>
-I will soon be posting a summary of this paper here
+I will post a summary of this paper when it is published.
