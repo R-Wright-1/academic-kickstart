@@ -25,12 +25,15 @@ links:
 #  icon_pack: fas
 #  link: files/publ0.pdf
 #  name: Download paper
-- icon: binoculars
-  icon_pack: fas
-  link: https://www.springer.com/gp/book/9789400759640
-  name: View online
+#- icon: binoculars
+#  icon_pack: fas
+#  link: https://www.springer.com/gp/book/9789400759640
+#  name: View online
 
 ---
+<i class="fas fa-binoculars"></i> [View online](https://pubs.acs.org/doi/10.1021/acs.est.9b05228)
+
+
 Published: _2013_
 </br>
 In: _Coral Reefs of the World_

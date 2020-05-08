@@ -32,6 +32,11 @@ image:
   preview_only: false
 
 ---
+<i class="fas fa-file-pdf"></i>[Download paper](publ1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-binoculars"></i> [View online](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="ai biorxiv"></i> [Preprint](https://www.biorxiv.org/content/10.1101/474742v1)
+
+
 Published: _June 2019_
 </br>
 In: _Microbiome_

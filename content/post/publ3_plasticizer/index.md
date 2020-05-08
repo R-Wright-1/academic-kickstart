@@ -17,10 +17,10 @@ links:
 #  icon_pack: fas
 #  link: files/publ3.pdf
 #  name: Download paper
-- icon: binoculars
-  icon_pack: fas
-  link: https://pubs.acs.org/doi/10.1021/acs.est.9b05228
-  name: View online
+#- icon: binoculars
+#  icon_pack: fas
+#  link: https://pubs.acs.org/doi/10.1021/acs.est.9b05228
+#  name: View online
 #- icon: binoculars
 #  icon_pack: fas
 #  link: https://pubs.acs.org/toc/esthag/54/4
@@ -33,7 +33,7 @@ image:
 
 
 ---
-<i class="fas fa-file-pdf"></i>[Download paper](files/publ3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-file-pdf"></i>[Download paper](publ3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
 <i class="fas fa-binoculars"></i> [View online](https://pubs.acs.org/doi/10.1021/acs.est.9b05228)&nbsp;&nbsp;&nbsp;&nbsp;
 <i class="fas fa-binoculars"></i> [View issue online](https://pubs.acs.org/toc/esthag/54/4)
 
