@@ -29,4 +29,4 @@ links:
 #  name: View online
 
 ---
-<i class="fas fa-binoculars"></i> [Link to code](useful_code.html)
+<i class="fas fa-binoculars"></i> [Link to code](Useful_code.html)
