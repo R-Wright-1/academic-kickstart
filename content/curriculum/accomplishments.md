@@ -8,6 +8,13 @@ title = "Prizes and successful grant applications"
 date_format = "2006"
 
 [[item]]
+  organization = "Warwick School of Life Sciences"
+  title = "Faculty Thesis Prize Winner 2020"
+  date_start = "2020-07-09"
+  date_end = ""
+  description = "<q>Every year, the Faculty of Science, Engineering and Medicine, and the School of Life Sciences, run a PhD Thesis Prize competition for the best PhD theses submitted and examined in the School during the previous calendar year. Supervisors are invited to put forward students for consideration.</br>This year’s [Faculty Prize](thesis_certificate.pdf) has been awarded to Dr Robyn Wright for her thesis titled: ‘Food or just a free ride? Exploring marine microbial community dynamics on natural and synthetic polymers’. The panel that reviewed nominations commended her thesis for its clarity and breadth of techniques, from biochemical assays and biophysical characterisation through proteomics to microbial ecology and molecular characterisation methods, in addition to its impact. As well as producing several excellent papers, Robyn’s work is also relevant to managing one of the high profile pollution problems that the world faces – plastics in the oceans. Robyn was supervised during her studies by Dr Joseph Christie-Oleza and co-supervised by Professor Matt Gibson from WMS and Chemistry.</q>"
+
+[[item]]
   organization = "The Association of Commonwealth Universities"
   organization_url = "https://bluecharter.thecommonwealth.org/"
   title = "Blue Charter Fellowship"

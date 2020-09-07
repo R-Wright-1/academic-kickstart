@@ -8,7 +8,6 @@ authors: []
 tags: ["Talk"]
 categories: []
 date: 2017-12-06T21:58:12-06:00
-lastmod: 2020-05-06T21:58:12-06:00
 featured: true
 draft: false
 

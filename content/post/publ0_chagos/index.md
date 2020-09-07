@@ -7,8 +7,7 @@ summary: "James W. Readman, Francis DeLuna, Ralf Ebinghaus, Antenor Nestor Guzma
 authors: []
 tags: ["Publication", "View online"]
 categories: []
-date: 2013-06-06T21:58:12-06:00
-lastmod: 2020-05-06T21:58:12-06:00
+date: 2013-01-31T21:58:12-06:00
 featured: true
 draft: false
 
@@ -31,7 +30,7 @@ links:
 #  name: View online
 
 ---
-<i class="fas fa-binoculars"></i> [View online](https://www.springer.com/gp/book/9789400759640)
+<i class="fas fa-binoculars"></i> [View online](https://link.springer.com/chapter/10.1007/978-94-007-5965-7_21)
 
 
 Published: _2013_
