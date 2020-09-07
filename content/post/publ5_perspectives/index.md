@@ -27,7 +27,7 @@ image:
   preview_only: false
 
 ---
-<i class="fas fa-file-pdf"></i>[Download paper](files/publ5.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fas fa-file-pdf"></i>[Download paper](publ5.pdf)&nbsp;&nbsp;&nbsp;&nbsp;
 <i class="fas fa-binoculars"></i> [View online](https://doi.org/10.1021/acs.est.0c02305)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
